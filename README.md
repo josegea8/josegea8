@@ -8,8 +8,9 @@ Soy programador de aplicaciones multiplataforma.
 Estoy especializado en el desarrollo de aplicaciones para móvil y para pc pero también empleo mi experiencia y conocimiento para el sector Web.
 Actualmente estoy en **busca de empleo**, aunque también me dedico a crear aplicaciones por mi cuenta.
 
-
+ 
 ## Tecnologías:
+[![GitHub](https://img.shields.io/badge/github-%234f4f4f.svg?style=for-the-badge&logo=github&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-1eb361?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-1eb361?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
