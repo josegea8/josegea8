@@ -1,6 +1,6 @@
 # Hola, mi nombre es José Gea 👋
 ### Freelance Full-Stack & Android Developer
-![Foto de encabezado](https://github.com/josegea8/josegea8/blob/c6a2059e3450e95bb459f3bc89ec729cacc16152/1674067064957.jpg)
+![Foto de encabezado](https://github.com/josegea8/josegea8/blob/main/headerImg.png)
 
 
 Soy programador de aplicaciones multiplataforma.
