@@ -1,5 +1,5 @@
 # Hola, mi nombre es José Gea 👋
-### Freelance Front End & Mobile Developer
+### Full Stack & Mobile Developer
 ![Foto de encabezado](https://github.com/josegea8/josegea8/blob/main/bannerUpdated)
 
 
